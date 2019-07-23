@@ -17,7 +17,7 @@
         <div class="container-fluid" style="width: 100%">
             <div class="jumbotron"
                 style="height: 350px; background-image: linear-gradient(to top left,darkgreen, yellow)">
-                <img src="images/cart1.png" class="rounded-circle" width="100px" height="100px">
+                <img src="images/cart1.png"  class="rounded-circle" width="100px" height="100px">
                 <div>
                 
                     <a href="sign-in.php" class="btn btn-link float-right" style="color: darkblue">Sign in</a>
